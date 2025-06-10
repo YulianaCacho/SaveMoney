@@ -1,0 +1,29 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos globales */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+  color: #222;
+}
+
+/* Personalización de botones si quieres */
+.btn-primary {
+  background-color: #5022d4;
+  border: none;
+}
+
+.btn-outline-primary {
+  border-color: #5022d4;
+  color: #5022d4;
+}
+
+.btn-outline-primary:hover {
+  background-color: #5022d4;
+  color: #fff;
+}
