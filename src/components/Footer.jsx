@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Hero() {
+export default function Footer() {
   return (     
     
       <footer className="bg-secondary text-white text-center py-4">
@@ -13,4 +13,5 @@ export default function Hero() {
       </footer>
 
      );
+     
 }
